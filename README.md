@@ -13,7 +13,7 @@ Follow these steps to set up and run the application locally:
 Download the project and navigate to its directory using:
 
 ```bash
-git clone https://github.com/your-username/alternate-drug-recommendation-system.git
+git clone https://github.com/abhinay0019/Alternative-Drug-Recommendation-System.git
 cd alternate-drug-recommendation-system
 ```
 
