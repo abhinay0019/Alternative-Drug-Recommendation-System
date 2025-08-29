@@ -79,4 +79,4 @@ The application enhances the user experience by offering:
 
 This tool simplifies the process of finding alternative drugs and supports informed healthcare decisions.
 
-Would you like me to **convert this into a professional README.md format for GitHub**? Or **make a shorter version for a report/PPT**? Or both?
+
